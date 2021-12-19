@@ -7,4 +7,6 @@
 - 💬 Ask me about React or any front-end related stuffs.
 - 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu). 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: i spend almost 12 coding 
+- ⚡ Fun fact: sike!!
+
+https://github-readme-stats.vercel.app/api?username=heytemisan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
