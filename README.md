@@ -15,8 +15,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytemisan&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
  type="image" width="500" theme="onedark"/>
  
-<a href="https://github.com/heytemisan/Gemini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heytemisan&repo=gemini" />
-</a>
- <br/>
+
 <img src="https://wakatime.com/share/@heytemisan/242a8d75-96e7-43c0-b2c9-296091098190.svg" type="image" width="500"/>
