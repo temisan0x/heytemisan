@@ -9,10 +9,16 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: sike!!
 
-<div style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=heytemisan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
  type="image" width="500" theme="onedark"/>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytemisan&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
  type="image" width="500" theme="onedark"/>
- </div>
+ 
+ <a href="https://github.com/heytemisan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heytemisan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/heytemisan/Gemini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heytemisan&repo=gemini" />
+</a>
+ 
