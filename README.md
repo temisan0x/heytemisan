@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a React Project.
 - 🤔 I’m looking for help with React Lazy loader documentation.
 - 💬 Ask me about React or any front-end related stuffs.
-- 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu). 
+- 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu), [Dev.to](https://dev.to/heytemisan). 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: sike!!
 
