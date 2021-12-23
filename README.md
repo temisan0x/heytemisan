@@ -19,3 +19,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heytemisan&repo=gemini" />
 </a>
  
+<figure><embed src="https://wakatime.com/share/@heytemisan/242a8d75-96e7-43c0-b2c9-296091098190.svg"></embed></figure>
