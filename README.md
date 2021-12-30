@@ -1,8 +1,8 @@
 ### Hi there, I'm Temisan Momodu 👋
 
 - 🔭 I’m currently working on [React NFT](https://github.com/heytemisan/React-Nft)
-- 🌱 I’m currently learning Reactjs.
-- 👯 I’m looking to collaborate on a React Project.
+- 🌱 I’m currently mastering Reactjs.
+- 👯 I’m looking to collaborate on a Crypto Project.
 - 🤔 I’m looking for help with React Lazy loader documentation.
 - 💬 Ask me about React or any front-end related stuffs.
 - 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu), [Dev.to](https://dev.to/heytemisan). 
