@@ -14,7 +14,7 @@
  type="image" width="400" theme="onedark"/>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytemisan&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
- type="image" width="500" theme="onedark"/>
+ type="image" width="400" theme="onedark"/>
  </div>
  <br><br><br><br><br><br><br><br><br>
  <h2><h2/>
