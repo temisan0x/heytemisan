@@ -16,3 +16,4 @@
  
 
 <img src="https://wakatime.com/share/@heytemisan/242a8d75-96e7-43c0-b2c9-296091098190.svg" type="image" width="500"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=heytemisan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
