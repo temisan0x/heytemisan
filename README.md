@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [cryptoSneaks ](https://github.com/heytemisan/cryptoSneaks)
 - 🌱 I’m currently learning Typescript.
-- 👯 I’m looking to collaborate on a Crypto Project.
+- 👯 I’m looking to collaborate on a web project.
 - 💬 Ask me about React or any front-end related stuffs.
 - 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu), [Dev.to](https://dev.to/heytemisan). 
 - 😄 Pronouns: He/His
