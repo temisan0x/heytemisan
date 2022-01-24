@@ -1,7 +1,7 @@
 ### Hi there, I'm Temisan Momodu 👋
 
 - 🔭 I’m currently working on [cryptoSneaks ](https://github.com/heytemisan/cryptoSneaks)
-- 🌱 I’m currently mastering Reactjs.
+- 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate on a Crypto Project.
 - 💬 Ask me about React or any front-end related stuffs.
 - 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu), [Dev.to](https://dev.to/heytemisan). 
