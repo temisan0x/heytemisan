@@ -1,10 +1,10 @@
 ### Hi there, I'm Temisan Momodu 👋
 
 - 🔭 I’m currently working on [cryptoSneaks ](https://github.com/heytemisan/cryptoSneaks)
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning Nextjs.
 - 👯 I’m looking to collaborate on a web project.
 - 💬 Ask me about React or any front-end related stuffs.
-- 📫 How to reach me: Twitter, [Facebook](https://web.facebook.com/temy.momodu), [Dev.to](https://dev.to/heytemisan). 
+- 📫 How to reach me: [Twitter](https://twitter.com/iceBoyTems), [Facebook](https://web.facebook.com/temy.momodu), [Dev.to](https://dev.to/heytemisan). 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: sike!!
 
